@@ -15,7 +15,7 @@ This work attempts to analyze the effects of changes in the demographic structur
 comparison between developed OECD countries and a wide sample of emerging countries
 
 1. Harmonize and clean the data to merge the different datasets
-2. Preprocess relevant variables (Category Dummies, Growth Rates, Deseasonalization etc..) to prepare the fixed effects panel regression
+2. Preprocess relevant variables (Category Dummies, Growth Rates, Deseasonalization etc.) to prepare the fixed effects panel regression
 3. Run the fixed effects panel regression in various specifications to gauge the relevance and robustness of the impact on inflation dynamics
 
 ## Abstract
